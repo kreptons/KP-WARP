@@ -1,6 +1,6 @@
-# KP-WARP+
+# KP-WARP
 
-KP-WARP+ is a Python script that automates adding data to Cloudflare WARP+ accounts.
+KP-WARP is a Python script that automates adding data to Cloudflare WARP+ accounts.
 
 ## Features
 
@@ -17,12 +17,12 @@ KP-WARP+ is a Python script that automates adding data to Cloudflare WARP+ accou
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kreptons/KP-WARP+
+   git clone https://github.com/kreptons/KP-WARP
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd KP-WARP+
+   cd KP-WARP
    ```
 
 3. **Run the Script**:
